@@ -31,7 +31,8 @@ usage: java -jar krypto.jar -e [ "AES | DES | HmacSHA1 | HmacSHA256" ]
  -r,--region <arg>       AWS Region
 
 -----------------------------------------------------------------
-
+# Encryption key -k
+The log displays a base-64 encoded key & default key is "Encrypt"
 # Sample Output
 
 -----------------------------------------------------------------
